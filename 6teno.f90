@@ -1,12 +1,7 @@
-!!!    This program solves Double Mach reflection problem of 2D Euler equations by WCNS6 and 5, explicit
+!!!    This program solves Double Mach reflection problem of 2D Euler equations TENO scheme
 !**********************************************************************
 ! Written by Sainath Ch, Email: s.chamarthi@al.t.u-tokyo.ac.jp
 !**********************************************************************
-
-! References:
-
-! 1. X. Liu, S. Zhang, H. Zhang, C. W. Shu, A new class of central compact schemes with spectral-like resolution II: 
-!	Hybrid weighted nonlinear schemes, Journal of Computational Physics 284 (2015) 133–154. 
 
 
 	program doublemach5
